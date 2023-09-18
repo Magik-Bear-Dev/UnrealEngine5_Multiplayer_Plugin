@@ -1,7 +1,14 @@
-# Ignore Everything
-*
-
-# But not .cpp
-!*.cpp
-!.gitignore
-!README.md
+﻿/.vs/MenuSystem/v16
+/Binaries/Win64
+/Build/Windows
+/Config
+/Intermediate
+/Content
+/Plugins/MultiplayerSessions/Binaries/Win64
+/Saved/WorldPartition
+/Saved/Logs
+/Saved/Crashes
+/Saved/Config/WindowsEditor
+/Plugins/MultiplayerSessions/Resources
+/Plugins/MultiplayerSessions
+/Saved
