@@ -12,3 +12,7 @@
 /Plugins/MultiplayerSessions/Resources
 /Plugins/MultiplayerSessions
 /Saved
+/.vscode
+/MenuSystem.code-workspace
+/.ignore
+/.vsconfig
